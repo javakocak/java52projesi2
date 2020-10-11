@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">java52projesi</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="baslik_bir">Activity ve Fragment</string>
+    <string name="baslik_iki">RecyclerWiev</string>
+    <string name="baslik_uc">permissons</string>
+    <string name="baslik_dort">Noticifacition</string>
+    <string name="baslik_bes">Servis tanımlama</string>
+    <string name="baslik_alti">Web servis</string>
+    <string name="baslik_yedi">Firebase kullanımı</string>
+    <string name="baslik_sekiz">Dil organizasyonu</string>
+    <string name="baslik_dokuz">Goofle maps</string>
+    <string name="baslik_on">Chat uygulaması</string>
+
+</resources>
